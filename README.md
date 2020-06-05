@@ -1,4 +1,4 @@
-## CV_made
+## NMADE_nlp_course
 # MADE Computer Vision course
 
 Лекции и семинары по NLP:
